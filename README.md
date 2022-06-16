@@ -3,7 +3,7 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 
 Papers selected：
 
-[1].DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting, International International Conference on Machine Learning 2022 (ICML), Accepted.（CCF-A）
+[1].DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting, International Conference on Machine Learning 2022 (ICML), Accepted.（CCF-A）
 
 [2].Robust Visual Object Tracking with Spatiotemporal Regularisation and Discriminative Occlusion Deformation, International Conference on Image Processing (ICIP). IEEE, 2021, pp. 1879-1883.
 
