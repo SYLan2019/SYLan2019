@@ -5,9 +5,9 @@ Publications selected：
 
 [1]. DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting, International Conference on Machine Learning (ICML) 2022, PMLR 162:11906-11917.（CCF-A）. ([code](https://github.com/SYLan2019/DSTAGNN)). This paper can be downloaded from https://proceedings.mlr.press/v162/lan22a/lan22a.pdf. 
 
-[2]. Face Super-Resolution with Spatial Attention Guided by Multiscale Receptive-Field Features, International Conference on Artificial Neural Networks,(ICANN2022), Accepted. ([code](https://github.com/SYLan2019/MRRNet)).
+[2]. Face Super-Resolution with Spatial Attention Guided by Multiscale Receptive-Field Features. International Conference on Artificial Neural Networks,(ICANN2022). Springer, Cham, 2022: 145-157. ([code](https://github.com/SYLan2019/MRRNet)).
 
-[3]. A Transformer-based GAN for Anomaly Detection, International Conference on Artificial Neural Networks,(ICANN2022), Accepted. ([code](https://github.com/SYLan2019/Transformer-Gan-Anomaly-Detection)).
+[3]. A Transformer-based GAN for Anomaly Detection. International Conference on Artificial Neural Networks,(ICANN2022). Springer, Cham, 2022: 345-357. ([code](https://github.com/SYLan2019/Transformer-Gan-Anomaly-Detection)).
 
 [4]. Robust Visual Object Tracking with Spatiotemporal Regularisation and Discriminative Occlusion Deformation, International Conference on Image Processing (ICIP). IEEE, 2021, pp. 1879-1883. ([code](https://github.com/SYLan2019/STDOD)).
 
