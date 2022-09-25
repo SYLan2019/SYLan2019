@@ -1,8 +1,8 @@
 # 
 # Shiyong Lan -[Homepage](https://cs.scu.edu.cn/info/1280/13694.htm)
+https://cs.scu.edu.cn/info/1280/13694.htm
 
-
-Publications selected：
+# Publications selected：
 
 [1]. DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting, International Conference on Machine Learning (**ICML**) 2022, PMLR 162:11906-11917.（**CCF-A**） (Acceptance rate: 21.9%). [[pdf](https://proceedings.mlr.press/v162/lan22a/lan22a.pdf)] [[code](https://github.com/SYLan2019/DSTAGNN)].
 
