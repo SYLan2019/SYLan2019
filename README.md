@@ -5,7 +5,7 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 招收**计算机视觉**、**多模态感知理解**、**数据分析**方面的研究生，欢迎报考**四川大学计算机学院**（304）和 **视觉合成图形图像技术国防重点学科实验室**（604）的同学联系！
 
 # Publications selected：
-[10].A Semantics-aware Normalizing Flow Model for Anomaly Detection, The IEEE International Conference on Multimedia & Expo (**ICME**) 2023.--[PS: Accepted]. 
+[11].A Semantics-aware Normalizing Flow Model for Anomaly Detection, The IEEE International Conference on Multimedia & Expo (**ICME**) 2023.--[PS: Accepted]. 
 
 [10]. DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting. International Conference on Machine Learning (**ICML**) 2022, PMLR 162:11906-11917.（**CCF-A**） (Acceptance rate: 21.9%). [[pdf](https://proceedings.mlr.press/v162/lan22a/lan22a.pdf)] [[code](https://github.com/SYLan2019/DSTAGNN)].
 
