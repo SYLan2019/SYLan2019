@@ -33,6 +33,6 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 
 [3]. Effect of Slopes in Highway on Traffic Flow. International Journal of Modern Physics C, 2011, 22, 319-331.
 
-[2].《机动车号牌自动识别系统》国家标准 GB/T 28649-2012.
+[2].《城市应急交通流仿真建模与模拟》，中国科学技术大学出版社， 2021，ISBN:978-7-312-05329-0.(专著).
 
-[1].《城市应急交通流仿真建模与模拟》，中国科学技术大学出版社， 2021，ISBN:978-7-312-05329-0.(专著). 
+[1].《机动车号牌自动识别系统》国家标准 GB/T 28649-2012. 
