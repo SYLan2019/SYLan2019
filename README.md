@@ -5,17 +5,17 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 招收**计算机视觉**、**多模态感知理解**、**数据分析**方面的研究生，欢迎报考**四川大学计算机学院**（304）和 **视觉合成图形图像技术国防重点学科实验室**（604）的同学[联系](https://cs.scu.edu.cn/info/1280/13694.htm)！
 
 # Publications selected：
-[16]. GanNeXt: A New Convolutional GAN for Anomaly Detection. International Conference on Artificial Neural Networks (ICANN2023)--[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-44213-1_4)].  [[code](https://github.com/SYLan2019/GanNeXt)].
+[16]. A Semantics-aware Normalizing Flow Model for Anomaly Detection, The IEEE International Conference on Multimedia & Expo (**ICME**) 2023.--[[pdf](https://ieeexplore.ieee.org/document/10219695)]. [[code](https://github.com/SYLan2019/SANF-AD)]
 
 [15]. Visual-Haptic-Kinesthetic Object Recognition with Multimodal Transformer. International Conference on Artificial Neural Networks (ICANN2023)--[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-44195-0_20)].  [[code](https://github.com/SYLan2019/VHKOR)].
 
 [14]. Siamese Network based on MLP and Multi-head Cross Attention for Visual Object Tracking. International Conference on Artificial Neural Networks (ICANN2023)--[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-44204-9_35)].  [[code](https://github.com/SYLan2019/MLP-MHCA)].
 
-[13]. Flow-based one-class anomaly detection with Multi-frequency Feature fusion. International Conference on Image Processing (ICIP 2023) --[[pdf](https://ieeexplore.ieee.org/document/10222200)].  [[code](https://github.com/SYLan2019/FOAD-MFFF)].
+[13]. GanNeXt: A New Convolutional GAN for Anomaly Detection. International Conference on Artificial Neural Networks (ICANN2023)--[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-44213-1_4)].  [[code](https://github.com/SYLan2019/GanNeXt)].
 
 [12]. DLAHSD: Dynamic Label adopted in Auxiliary Head for SAR Detection. International Conference on Image Processing (ICIP 2023) --[[pdf](https://ieeexplore.ieee.org/document/10223091)].  [[code](https://github.com/SYLan2019/DLAHSD)].
 
-[11].A Semantics-aware Normalizing Flow Model for Anomaly Detection, The IEEE International Conference on Multimedia & Expo (**ICME**) 2023.--[[pdf](https://ieeexplore.ieee.org/document/10219695)]. [[code](https://github.com/SYLan2019/SANF-AD)]
+[11]. Flow-based one-class anomaly detection with Multi-frequency Feature fusion. International Conference on Image Processing (ICIP 2023) --[[pdf](https://ieeexplore.ieee.org/document/10222200)].  [[code](https://github.com/SYLan2019/FOAD-MFFF)].
 
 [10]. DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting. International Conference on Machine Learning (**ICML**) 2022, PMLR 162:11906-11917.（**CCF-A**） (Acceptance rate: 21.9%). [[pdf](https://proceedings.mlr.press/v162/lan22a/lan22a.pdf)] [[code](https://github.com/SYLan2019/DSTAGNN)].
 
