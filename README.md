@@ -5,9 +5,9 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 招收**计算机视觉**、**多模态感知理解**、**大数据分析**方面的研究生，欢迎报考**四川大学计算机学院**（304）和 **视觉合成图形图像技术国防重点学科实验室**（604）的同学[联系](https://cs.scu.edu.cn/info/1280/13694.htm)！
 
 # Publications selected：
-[18]. A Dual Branch Graph Neural Network based Spatial Interpolation Method for Traffic Data Inference in Unobserved Locations, Information Fusion, (2024) --Accepted. [[code](https://github.com/SYLan2019/DBGNN)]
+[18]. A Dual Branch Graph Neural Network based Spatial Interpolation Method for Traffic Data Inference in Unobserved Locations, **Information Fusion**, (2024) --Accepted. [[code](https://github.com/SYLan2019/DBGNN)]
 
-[17]. Semantic-aware normalizing flow with feature fusion for image anomaly detection, Neurocomputing 590 (2024), 127728. --[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224004995)]. [[code](https://github.com/SYLan2019/SANF-AD)]
+[17]. Semantic-aware normalizing flow with feature fusion for image anomaly detection, **Neurocomputing**, 590 (2024), 127728. --[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224004995)]. [[code](https://github.com/SYLan2019/SANF-AD)]
 
 [16]. A Semantics-aware Normalizing Flow Model for Anomaly Detection, The IEEE International Conference on Multimedia & Expo (**ICME**) 2023.--[[pdf](https://ieeexplore.ieee.org/document/10219695)]. [[code](https://github.com/SYLan2019/SANF-AD)]
 
