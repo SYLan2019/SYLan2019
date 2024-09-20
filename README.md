@@ -27,7 +27,7 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 
 [8]. A Transformer-based GAN for Anomaly Detection. International Conference on Artificial Neural Networks (ICANN2022). Springer, Cham, 2022: 345-357. [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-15931-2_29)]([code](https://github.com/SYLan2019/Transformer-Gan-Anomaly-Detection)).
 
-[7]. Robust Visual Object Tracking with Spatiotemporal Regularisation and Discriminative Occlusion Deformation. International Conference on Image Processing (ICIP). IEEE, 2021, pp. 1879-1883. [[pdf](http://personal.ee.surrey.ac.uk/Personal/W.Wang/papers/LanLSLW_ICIP_2021.pdf)]([code](https://github.com/SYLan2019/STDOD)).
+[7]. Robust Visual Object Tracking with Spatiotemporal Regularisation and Discriminative Occlusion Deformation. International Conference on Image Processing (ICIP). IEEE, 2021, pp. 1879-1883. [[pdf](https://ieeexplore.ieee.org/document/9506176)]([code](https://github.com/SYLan2019/STDOD)).
 
 [6]. SAGAN: Skip-Attention GAN for Anomaly Detection, International Conference on Image Processing (ICIP). IEEE, 2021, pp. 2468-2472. [[pdf](https://ieeexplore.ieee.org/document/9506332)]([code](https://github.com/SYLan2019/Skip-Attention-GAN)).
 
