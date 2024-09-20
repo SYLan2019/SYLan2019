@@ -29,7 +29,7 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 
 [7]. Robust Visual Object Tracking with Spatiotemporal Regularisation and Discriminative Occlusion Deformation. International Conference on Image Processing (ICIP). IEEE, 2021, pp. 1879-1883. [[pdf](http://personal.ee.surrey.ac.uk/Personal/W.Wang/papers/LanLSLW_ICIP_2021.pdf)]([code](https://github.com/SYLan2019/STDOD)).
 
-[6]. SAGAN: Skip-Attention GAN for Anomaly Detection, International Conference on Image Processing (ICIP). IEEE, 2021, pp. 2468-2472. [[pdf](http://personal.ee.surrey.ac.uk/Personal/W.Wang/papers/LiuLZHW_ICIP_2021.pdf)]([code](https://github.com/SYLan2019/Skip-Attention-GAN)).
+[6]. SAGAN: Skip-Attention GAN for Anomaly Detection, International Conference on Image Processing (ICIP). IEEE, 2021, pp. 2468-2472. [[pdf](https://ieeexplore.ieee.org/document/9506332)]([code](https://github.com/SYLan2019/Skip-Attention-GAN)).
 
 [5]. Real-Time 3D Road Scene Based on Virtual-Real Fusion Method. IEEE Sensors Journal, 2015, 15(2):750-756.
 
