@@ -23,9 +23,9 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 
 [10]. DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting. International Conference on Machine Learning (**ICML**) 2022, PMLR 162:11906-11917.（**CCF-A**） (Acceptance rate: 21.9%). [[pdf](https://proceedings.mlr.press/v162/lan22a/lan22a.pdf)] [[code](https://github.com/SYLan2019/DSTAGNN)].
 
-[9]. Face Super-Resolution with Spatial Attention Guided by Multiscale Receptive-Field Features. International Conference on Artificial Neural Networks (ICANN2022). Springer, Cham, 2022: 145-157. [[pdf](http://personal.ee.surrey.ac.uk/Personal/W.Wang/papers/Huangetal_ICANN2022.pdf)] ([code](https://github.com/SYLan2019/MRRNet)).
+[9]. Face Super-Resolution with Spatial Attention Guided by Multiscale Receptive-Field Features. International Conference on Artificial Neural Networks (ICANN2022). Springer, Cham, 2022: 145-157. [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-15919-0_13)] ([code](https://github.com/SYLan2019/MRRNet)).
 
-[8]. A Transformer-based GAN for Anomaly Detection. International Conference on Artificial Neural Networks (ICANN2022). Springer, Cham, 2022: 345-357. [[pdf](http://personal.ee.surrey.ac.uk/Personal/W.Wang/papers/Yangetal_ICANN2022.pdf)]([code](https://github.com/SYLan2019/Transformer-Gan-Anomaly-Detection)).
+[8]. A Transformer-based GAN for Anomaly Detection. International Conference on Artificial Neural Networks (ICANN2022). Springer, Cham, 2022: 345-357. [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-15931-2_29)]([code](https://github.com/SYLan2019/Transformer-Gan-Anomaly-Detection)).
 
 [7]. Robust Visual Object Tracking with Spatiotemporal Regularisation and Discriminative Occlusion Deformation. International Conference on Image Processing (ICIP). IEEE, 2021, pp. 1879-1883. [[pdf](http://personal.ee.surrey.ac.uk/Personal/W.Wang/papers/LanLSLW_ICIP_2021.pdf)]([code](https://github.com/SYLan2019/STDOD)).
 
