@@ -6,6 +6,7 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 
 # Publications selected：
 [19]. SAR Ship Detector Using Cross-stage Feature Fusion and Decoupled Head with Mutual Guidance, IEEE International Conference on Acoustics, Speech and Signal Processing, (ICASSP 2025),--Accepted.  [[code](https://github.com/SYLan2019/CSFF-MGDH)]
+
 [18]. A Dual Branch Graph Neural Network based Spatial Interpolation Method for Traffic Data Inference in Unobserved Locations, **Information Fusion**, (2024) --Accepted. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004810)] [[code](https://github.com/SYLan2019/DBGNN)]
 
 [17]. Semantic-aware normalizing flow with feature fusion for image anomaly detection, **Neurocomputing**, 590 (2024), 127728. --[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224004995)]. [[code](https://github.com/SYLan2019/SANF-AD)]
