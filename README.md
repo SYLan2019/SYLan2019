@@ -9,7 +9,7 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 
 [20]. EMGPose: An Efficient Multi-Granularity Representation for Human Pose Estimation, IEEE International Conference on Multimedia and Expo (ICME2025)--Accepted. 
 
-[19]. SAR Ship Detector Using Cross-stage Feature Fusion and Decoupled Head with Mutual Guidance, IEEE International Conference on Acoustics, Speech and Signal Processing, (ICASSP 2025),--Accepted.  [[code](https://github.com/SYLan2019/CSFF-MGDH)]
+[19]. SAR Ship Detector Using Cross-stage Feature Fusion and Decoupled Head with Mutual Guidance, IEEE International Conference on Acoustics, Speech and Signal Processing, (ICASSP 2025). [[paper](https://ieeexplore.ieee.org/document/10890187)] [[code](https://github.com/SYLan2019/CSFF-MGDH)]
 
 [18]. A Dual Branch Graph Neural Network based Spatial Interpolation Method for Traffic Data Inference in Unobserved Locations, **Information Fusion**, 114 (2025), 317263. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004810)] [[code](https://github.com/SYLan2019/DBGNN)]
 
