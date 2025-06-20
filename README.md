@@ -5,6 +5,8 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 招收**计算机视觉**、**多模态感知理解**、**大数据分析**方面的研究生，欢迎报考**四川大学计算机学院**（304）和 **视觉合成图形图像技术国防重点学科实验室**（604）的同学[联系](https://cs.scu.edu.cn/info/1280/13694.htm)！
 
 # Publications selected：
+[22]. RemoteDPL: A Semi-supervised Object Detector with Dense Pseudo-Labels for Remote Sensing,  IEEE Transactions on Geoscience and Remote Sensing, (**IEEE - TGRS** 2025). --[[paper](https://doi.org/10.1109/TGRS.2025.3581206)]. [[code](https://github.com/SYLan2019/RemoteDPL)] 
+
 [21]. DCGNet: Detail and Context Guided Small Object Detection Network with Decoupled Detection Head, IEEE International Conference on Multimedia and Expo (**ICME** 2025)--Accepted. 
 
 [20]. EMGPose: An Efficient Multi-Granularity Representation for Human Pose Estimation, IEEE International Conference on Multimedia and Expo (**ICME** 2025)--Accepted. 
