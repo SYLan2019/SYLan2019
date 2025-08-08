@@ -6,6 +6,7 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 
 # Publications selected：
 [23]. MADFlow: Multimodal Difference Compensation Flow for Multimodal Anomaly Detection Neurocomputing, **Neurocomputing**, 2025, --Accepted. 
+
 [22]. RemoteDPL: A Semi-supervised Object Detector with Dense Pseudo-Labels for Remote Sensing,  IEEE Transactions on Geoscience and Remote Sensing, 2025, 63, 1-13. (**IEEE - TGRS** 2025). --[[paper](https://doi.org/10.1109/TGRS.2025.3581206)] [[code](https://github.com/SYLan2019/RemoteDPL)] 
 
 [21]. DCGNet: Detail and Context Guided Small Object Detection Network with Decoupled Detection Head, IEEE International Conference on Multimedia and Expo (**ICME** 2025)--Accepted. 
