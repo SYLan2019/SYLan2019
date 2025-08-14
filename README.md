@@ -5,7 +5,7 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 招收**计算机视觉**、**多模态感知理解**、**大数据分析**方面的研究生，欢迎报考**四川大学计算机学院**（304）和 **视觉合成图形图像技术国防重点学科实验室**（604）的同学[联系](https://cs.scu.edu.cn/info/1280/13694.htm)！
 
 # Publications selected：
-[23]. MADFlow: Multimodal Difference Compensation Flow for Multimodal Anomaly Detection, **Neurocomputing**, 2025, --Accepted. 
+[23]. MADFlow: Multimodal Difference Compensation Flow for Multimodal Anomaly Detection, **Neurocomputing**, 2025, --[[paper](https://www.sciencedirect.com/science/article/pii/S0925231225019150#aep-article-footnote-id8)] [[code](https://github.com/SYLan2019/MADFlow)]. 
 
 [22]. RemoteDPL: A Semi-supervised Object Detector with Dense Pseudo-Labels for Remote Sensing,  IEEE Transactions on Geoscience and Remote Sensing, 2025, 63, 1-13. (**IEEE - TGRS** 2025). --[[paper](https://doi.org/10.1109/TGRS.2025.3581206)] [[code](https://github.com/SYLan2019/RemoteDPL)] 
 
