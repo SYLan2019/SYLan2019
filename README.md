@@ -7,7 +7,7 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 # Publications selected：
 [24] Dual-branch normalizing flow for anomaly detection and localization from images, **Neurocomputing**, Vol. 660,2026, 131850,  --[[paper](https://doi.org/10.1016/j.neucom.2025.131850)] [[code](https://github.com/SYLan2019/DNFAD)].
 
-[23]. MADFlow: Multimodal Difference Compensation Flow for Multimodal Anomaly Detection, **Neurocomputing**, 2025, --[[paper](https://www.sciencedirect.com/science/article/pii/S0925231225019150#aep-article-footnote-id8)] [[code](https://github.com/SYLan2019/MADFlow)]. 
+[23]. MADFlow: Multimodal Difference Compensation Flow for Multimodal Anomaly Detection, **Neurocomputing**, Vol. 654, 2025, 131243, --[[paper](https://www.sciencedirect.com/science/article/pii/S0925231225019150#aep-article-footnote-id8)] [[code](https://github.com/SYLan2019/MADFlow)]. 
 
 [22]. RemoteDPL: A Semi-supervised Object Detector with Dense Pseudo-Labels for Remote Sensing,  IEEE Transactions on Geoscience and Remote Sensing, 2025, 63, 1-13. (**IEEE - TGRS** 2025). --[[paper](https://doi.org/10.1109/TGRS.2025.3581206)] [[code](https://github.com/SYLan2019/RemoteDPL)] 
 
