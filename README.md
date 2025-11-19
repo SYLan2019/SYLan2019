@@ -11,9 +11,9 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 
 [22]. RemoteDPL: A Semi-supervised Object Detector with Dense Pseudo-Labels for Remote Sensing,  IEEE Transactions on Geoscience and Remote Sensing, 2025, 63, 1-13. (**IEEE - TGRS** 2025). --[[paper](https://doi.org/10.1109/TGRS.2025.3581206)] [[code](https://github.com/SYLan2019/RemoteDPL)] 
 
-[21]. DCGNet: Detail and Context Guided Small Object Detection Network with Decoupled Detection Head, IEEE International Conference on Multimedia and Expo (**ICME** 2025)--Accepted. 
+[21]. DCGNet: Detail and Context Guided Small Object Detection Network with Decoupled Detection Head, IEEE International Conference on Multimedia and Expo (**ICME** 2025)--[[paper](https://ieeexplore.ieee.org/document/11208976)] [[code](https://github.com/SYLan2019/DCGNet)]. 
 
-[20]. EMGPose: An Efficient Multi-Granularity Representation for Human Pose Estimation, IEEE International Conference on Multimedia and Expo (**ICME** 2025)--Accepted. 
+[20]. EMGPose: An Efficient Multi-Granularity Representation for Human Pose Estimation, IEEE International Conference on Multimedia and Expo (**ICME** 2025)---[[paper](https://ieeexplore.ieee.org/document/11209868)] [[code](https://github.com/SYLan2019/EMGPose)]. 
 
 [19]. SAR Ship Detector Using Cross-stage Feature Fusion and Decoupled Head with Mutual Guidance, IEEE International Conference on Acoustics, Speech and Signal Processing, (**ICASSP** 2025). [[paper](https://ieeexplore.ieee.org/document/10890187)] [[code](https://github.com/SYLan2019/CSFF-MGDH)]
 
