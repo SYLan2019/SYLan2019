@@ -5,6 +5,10 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 招收**计算机视觉**、**多模态感知理解**、**大数据分析**方面的研究生，欢迎报考**四川大学计算机学院**（304）和 **视觉合成图形图像技术国防重点学科实验室**（604）的同学[联系](https://cs.scu.edu.cn/info/1280/13694.htm)！
 
 # Publications selected：
+[26] Spatio-temporal Fusion Flow with Dynamic Graph Leaning for Unsupervised Multivariate Time Series Anomaly Detection, **Neurocomputing**, Vol. 666, 2026, 132286,  --[[paper](https://www.sciencedirect.com/science/article/pii/S0925231225029583?lid=jua9g5tkojjo&utm_source=braze&utm_medium=email&utm_campaign=STMJ_220042_AUTH_SERV_PPUB&utm_content=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&utm_term=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&DGCID=STMJ_220042_AUTH_SERV_PPUB)].
+
+[25] CSFF-MGDH: Cross-stage Feature Fusion and Decoupled Head with Mutual Guidance for SAR Ship Detection, IEEE Transactions on Radar Systems, doi: 10.1109/TRS.2025.3632813., **IEEE Transactions on Radar Systems**, 2025,  --[[paper](https://ieeexplore.ieee.org/document/11249457)] [[code](https://github.com/SYLan2019/CSFF-MGDH)].
+
 [24] Dual-branch normalizing flow for anomaly detection and localization from images, **Neurocomputing**, Vol. 660,2026, 131850,  --[[paper](https://doi.org/10.1016/j.neucom.2025.131850)] [[code](https://github.com/SYLan2019/DNFAD)].
 
 [23]. MADFlow: Multimodal Difference Compensation Flow for Multimodal Anomaly Detection, **Neurocomputing**, Vol. 654, 2025, 131243, --[[paper](https://www.sciencedirect.com/science/article/pii/S0925231225019150#aep-article-footnote-id8)] [[code](https://github.com/SYLan2019/MADFlow)]. 
