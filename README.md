@@ -9,13 +9,13 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 
 [26] Spatio-temporal Fusion Flow with Dynamic Graph Leaning for Unsupervised Multivariate Time Series Anomaly Detection, **Neurocomputing**, Vol. 666, 2026, 132286,  --[[paper](https://www.sciencedirect.com/science/article/pii/S0925231225029583?lid=jua9g5tkojjo&utm_source=braze&utm_medium=email&utm_campaign=STMJ_220042_AUTH_SERV_PPUB&utm_content=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&utm_term=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&DGCID=STMJ_220042_AUTH_SERV_PPUB)] [[code](https://github.com/SYLan2019/STF2-DGL)].
 
-[25] CSFF-MGDH: Cross-stage Feature Fusion and Decoupled Head with Mutual Guidance for SAR Ship Detection, IEEE Transactions on Radar Systems, doi: 10.1109/TRS.2025.3632813., **IEEE Transactions on Radar Systems**, 2025,  --[[paper](https://ieeexplore.ieee.org/document/11249457)] [[code](https://github.com/SYLan2019/CSFF-MGDH)].
+[25] CSFF-MGDH: Cross-stage Feature Fusion and Decoupled Head with Mutual Guidance for SAR Ship Detection, **IEEE Transactions on Radar Systems**, vol.4, pp.76-85, 2026, doi: 10.1109/TRS.2025.3632813.,   --[[paper](https://ieeexplore.ieee.org/document/11249457)] [[code](https://github.com/SYLan2019/CSFF-MGDH)].
 
 [24] Dual-branch normalizing flow for anomaly detection and localization from images, **Neurocomputing**, Vol. 660,2026, 131850,  --[[paper](https://doi.org/10.1016/j.neucom.2025.131850)] [[code](https://github.com/SYLan2019/DNFAD)].
 
 [23]. MADFlow: Multimodal Difference Compensation Flow for Multimodal Anomaly Detection, **Neurocomputing**, Vol. 654, 2025, 131243, --[[paper](https://www.sciencedirect.com/science/article/pii/S0925231225019150#aep-article-footnote-id8)] [[code](https://github.com/SYLan2019/MADFlow)]. 
 
-[22]. RemoteDPL: A Semi-supervised Object Detector with Dense Pseudo-Labels for Remote Sensing,  IEEE Transactions on Geoscience and Remote Sensing, 2025, 63, 1-13. (**IEEE - TGRS** 2025). --[[paper](https://doi.org/10.1109/TGRS.2025.3581206)] [[code](https://github.com/SYLan2019/RemoteDPL)] 
+[22]. RemoteDPL: A Semi-supervised Object Detector with Dense Pseudo-Labels for Remote Sensing,  IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-13, 2025, Art no. 4506213. (**IEEE - TGRS** 2025). --[[paper](https://doi.org/10.1109/TGRS.2025.3581206)] [[code](https://github.com/SYLan2019/RemoteDPL)] 
 
 [21]. DCGNet: Detail and Context Guided Small Object Detection Network with Decoupled Detection Head, IEEE International Conference on Multimedia and Expo (**ICME** 2025)--[[paper](https://ieeexplore.ieee.org/document/11208976)] [[code](https://github.com/SYLan2019/DCGNet)]. 
 
