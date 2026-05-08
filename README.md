@@ -5,6 +5,10 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 招收**计算机视觉**、**多模态感知理解**、**大数据分析**方面的硕/博研究生，欢迎报考**四川大学计算机学院**（304）和 **视觉合成图形图像技术国防重点学科实验室**（604）的同学[联系](https://cs.scu.edu.cn/info/1280/13694.htm)！
 
 # Publications selected：
+[30] STGFMamba: Spatio-temporal graph Fourier-enhanced Mamba for traffic prediction, **Information Sciences**, Vol. 752, 2026, 123601, --[[paper](https://doi.org/10.1016/j.ins.2026.123601)] [[code](https://github.com/SYLan2019/STGFMamba)].
+
+[29] DSTFGCN: A dynamic spatial-temporal fusion graph convolution network for traffic flow forecasting, **Neural Networks**, Vol. 201, 2026, 108989, --[[paper](https://doi.org/10.1016/j.neunet.2026.108989)] [[code](https://github.com/SYLan2019/DSTFGCN)]. 
+
 [28] Small object detection using multi-scale detail enhancement and decoupled detection head, **Neurocomputing**, Vol. 680, 2026, 133322, --[[paper](https://doi.org/10.1016/j.neucom.2026.133322)] [[code](https://github.com/SYLan2019/DCGNet2)].
 
 [27] DMAGaze: Gaze Estimation Using Feature Disentanglement and Multi-Scale Attention, **Pattern Recognition Letters**, Vol. 201, 2026, 109-116,  --[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865526000218)] [[code](https://github.com/Sajelhhh/DMAGaze)].
