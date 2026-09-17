@@ -7,7 +7,7 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 # Publications selected：
 [32] Modeling of Spatial-Temporal Dynamic Dependency in Traffic Data to Predict its Evolution, **Engineering Applications of Artificial Intelligence**, Vol. **, 2026, 116321, --[[paper](https://doi.org/****/****.2026.116321)] [[code](https://github.com/SYLan2019/MH-ASTIGCN)].--Accepted
 
-[31] DCDNet: Differential Capsule Disentanglement Network for Gaze Estimation, **IEEE Signal Processing Letters**, Vol. **, 2026, 3734112, --[[paper](https://doi.org/10.1109/LSP.2026.3734112)] [[code](https://github.com/SYLan2019/DCDNet)].--Accepted
+[31] DCDNet: Differential Capsule Disentanglement Network for Gaze Estimation, **IEEE Signal Processing Letters**, Vol. **, 2026, 3734112, --[[paper](https://ieeexplore.ieee.org/document/11691591)] [[code](https://github.com/SYLan2019/DCDNet)].--Accepted
 
 [30] STGFMamba: Spatio-temporal graph Fourier-enhanced Mamba for traffic prediction, **Information Sciences**, Vol. 752, 2026, 123601, --[[paper](https://doi.org/10.1016/j.ins.2026.123601)] [[code](https://github.com/SYLan2019/STGFMamba)].
 
