@@ -9,8 +9,9 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 
 [30] DCDNet: Differential Capsule Disentanglement Network for Gaze Estimation, **IEEE Signal Processing Letters**, Vol. **, 2026, 3734112, --[[paper](https://ieeexplore.ieee.org/document/11691591)] [[code](https://github.com/SYLan2019/DCDNet)].--Accepted
 
-<! [30] STGFMamba: Spatio-temporal graph Fourier-enhanced Mamba for traffic prediction, **Information Sciences**, Vol. 752, 2026, 123601, --[[paper](https://doi.org/10.1016/j.ins.2026.123601)] [[code](https://github.com/SYLan2019/STGFMamba)].
->
+<!--
+[30] STGFMamba: Spatio-temporal graph Fourier-enhanced Mamba for traffic prediction, **Information Sciences**, Vol. 752, 2026, 123601, --[[paper](https://doi.org/10.1016/j.ins.2026.123601)] [[code](https://github.com/SYLan2019/STGFMamba)].
+-->
 [29] Small object detection using multi-scale detail enhancement and decoupled detection head, **Neurocomputing**, Vol. 680, 2026, 133322, --[[paper](https://doi.org/10.1016/j.neucom.2026.133322)] [[code](https://github.com/SYLan2019/DCGNet2)].
 
 [28] DSTFGCN: A dynamic spatial-temporal fusion graph convolution network for traffic flow forecasting, **Neural Networks**, Vol. 201, 2026, 108989, --[[paper](https://doi.org/10.1016/j.neunet.2026.108989)] [[code](https://github.com/SYLan2019/DSTFGCN)]. 
