@@ -5,13 +5,13 @@ https://cs.scu.edu.cn/info/1280/13694.htm
 招收**计算机视觉**、**人工智能**、**多模态感知理解**、**大数据分析**方面的博士(和硕士)研究生，欢迎报考**四川大学计算机学院**（304）和 **视觉合成图形图像技术国防重点学科实验室**（604）的同学[联系](https://cs.scu.edu.cn/info/1280/13694.htm)！
 
 # Publications selected：
-[31] Modeling of Spatial-Temporal Dynamic Dependency in Traffic Data to Predict its Evolution, **Engineering Applications of Artificial Intelligence**, Vol. **, 2026, 116321, --[[paper](https://doi.org/****/****.2026.116321)] [[code](https://github.com/SYLan2019/MH-ASTIGCN)].--Accepted
+[32] Modeling of Spatial-Temporal Dynamic Dependency in Traffic Data to Predict its Evolution, **Engineering Applications of Artificial Intelligence**, Vol. **, 2026, 116321, --[[paper](https://doi.org/****/****.2026.116321)] [[code](https://github.com/SYLan2019/MH-ASTIGCN)].--Accepted
 
-[30] DCDNet: Differential Capsule Disentanglement Network for Gaze Estimation, **IEEE Signal Processing Letters**, Vol. **, 2026, 3734112, --[[paper](https://ieeexplore.ieee.org/document/11691591)] [[code](https://github.com/SYLan2019/DCDNet)].--Accepted
+[31] DCDNet: Differential Capsule Disentanglement Network for Gaze Estimation, **IEEE Signal Processing Letters**, Vol. **, 2026, 3734112, --[[paper](https://ieeexplore.ieee.org/document/11691591)] [[code](https://github.com/SYLan2019/DCDNet)].--Accepted
 
-<!--
+
 [30] STGFMamba: Spatio-temporal graph Fourier-enhanced Mamba for traffic prediction, **Information Sciences**, Vol. 752, 2026, 123601, --[[paper](https://doi.org/10.1016/j.ins.2026.123601)] [[code](https://github.com/SYLan2019/STGFMamba)].
--->
+
 [29] Small object detection using multi-scale detail enhancement and decoupled detection head, **Neurocomputing**, Vol. 680, 2026, 133322, --[[paper](https://doi.org/10.1016/j.neucom.2026.133322)] [[code](https://github.com/SYLan2019/DCGNet2)].
 
 [28] DSTFGCN: A dynamic spatial-temporal fusion graph convolution network for traffic flow forecasting, **Neural Networks**, Vol. 201, 2026, 108989, --[[paper](https://doi.org/10.1016/j.neunet.2026.108989)] [[code](https://github.com/SYLan2019/DSTFGCN)]. 
